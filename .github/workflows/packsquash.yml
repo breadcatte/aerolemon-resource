@@ -29,3 +29,5 @@ jobs:
         run:
           gh release create 'v${{ github.run_number }}.${{ github.run_attempt }}'
           --target '${{ github.sha }}' /tmp/aerolemon-resource.zip
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

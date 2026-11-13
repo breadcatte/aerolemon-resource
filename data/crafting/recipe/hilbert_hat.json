@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " RW",
+      "bRW",
+      "   "
+    ],
+    "key": {
+      "W": {
+            "item": "minecraft:white_wool"
+    },
+      "b": {
+            "item": "minecraft:black_carpet"
+    },    
+      "R": {
+            "item": "minecraft:red_wool"
+    }
+  },
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 5011,
+        "minecraft:item_name": "\"Hilbert's Cap\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

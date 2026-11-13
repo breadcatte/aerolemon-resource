@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "r r",
+      "   ",
+      "   "
+    ],
+    "key": {
+      "r": {
+            "item": "minecraft:red_mushroom"
+   
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 254,
+        "minecraft:item_name": "\"Paras Shroom\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

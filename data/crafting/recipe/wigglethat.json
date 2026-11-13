@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "   ",
+      " w ",
+      "ccc"
+    ],
+    "key": {
+      "c": {
+            "item": "minecraft:cobblestone"
+    },
+      "w": {
+            "item": "minecraft:water_bucket"
+
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 278,
+        "minecraft:item_name": "\"Wigglet Hat\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

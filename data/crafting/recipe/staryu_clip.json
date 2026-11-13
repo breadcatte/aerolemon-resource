@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " c ",
+      "crc",
+      "c c"
+    ],
+    "key": {
+      "r": {
+            "item": "minecraft:redstone_block"
+    },
+      "c": {
+            "item": "minecraft:copper_ingot"
+
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 256,
+        "minecraft:item_name": "\"Staryu Clip\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

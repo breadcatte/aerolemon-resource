@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "   ",
+      " d ",
+      "ccc"
+    ],
+    "key": {
+      "c": {
+            "item": "minecraft:cobblestone"
+    },
+      "d": {
+            "item": "minecraft:dirt"
+
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 276,
+        "minecraft:item_name": "\"Digglet Hat\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "n c",
+      "p p",
+      "w w"
+    ],
+    "key": {
+      "w": {
+            "item": "minecraft:white_wool"
+    },
+      "p": {
+            "item": "minecraft:pink_wool"
+    },
+      "c": {
+            "item": "minecraft:light_blue_wool"
+          },
+          "n": {
+                    "item": "minecraft:netherite_ingot"
+
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 263,
+        "minecraft:item_name": "\"Sylveon Ears Shiny\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

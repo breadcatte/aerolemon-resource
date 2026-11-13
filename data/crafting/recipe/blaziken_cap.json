@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "   ",
+      " bw",
+      "rbw"
+    ],
+    "key": {
+      "b": {
+            "item": "minecraft:blaze_powder"
+    },
+      "r": {
+            "item": "minecraft:red_carpet"
+    },
+      "w": {
+                "item": "minecraft:white_wool"
+
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 258,
+        "minecraft:item_name": "\"Blaziken Cap\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " WB",
+      "bBB",
+      "   "
+    ],
+    "key": {
+      "W": {
+            "item": "minecraft:white_wool"
+    },
+      "B": {
+            "item": "minecraft:black_wool"
+    },
+      "b": {
+            "item": "minecraft:black_carpet"
+    }
+  },
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 5066,
+        "minecraft:item_name": "\"N's Cap\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

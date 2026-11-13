@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "PW ",
+      "WW ",
+      "   "
+    ],
+    "key": {
+      "P": {
+            "item": "minecraft:pink_wool"
+    },
+      "W": {
+            "item": "minecraft:white_wool"
+    }
+  },   
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 4022,
+        "minecraft:item_name": "\"Dawn's Beanie\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

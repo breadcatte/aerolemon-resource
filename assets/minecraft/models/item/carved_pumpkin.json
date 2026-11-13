@@ -1,0 +1,53 @@
+{
+ "parent": "minecraft:block/carved_pumpkin",
+ "textures": {
+  "layer0": "item/carved_pumpkin"
+ },
+ 
+ "overrides": [
+  {"predicate": {"custom_model_data": 241}, "model": "block/custom/goomyhat"},
+  {"predicate": {"custom_model_data": 242}, "model": "block/custom/psycap"},
+  {"predicate": {"custom_model_data": 243}, "model": "block/custom/hoppiphat"},
+  {"predicate": {"custom_model_data": 244}, "model": "block/custom/umbreoncap"},
+  {"predicate": {"custom_model_data": 245}, "model": "block/custom/sylveonears"},
+  {"predicate": {"custom_model_data": 246}, "model": "block/custom/meowthface"},
+  {"predicate": {"custom_model_data": 247}, "model": "block/custom/meowthface_alola"},
+  {"predicate": {"custom_model_data": 248}, "model": "block/custom/meowthface_galarian"},
+  {"predicate": {"custom_model_data": 249}, "model": "block/custom/buneary"},
+  {"predicate": {"custom_model_data": 251}, "model": "block/custom/scorbunny"},
+  {"predicate": {"custom_model_data": 252}, "model": "block/custom/morelullshroom"},
+  {"predicate": {"custom_model_data": 253}, "model": "block/custom/breloomshroom"},
+  {"predicate": {"custom_model_data": 254}, "model": "block/custom/parasshroom"},
+  {"predicate": {"custom_model_data": 255}, "model": "block/custom/toedscool"},
+  {"predicate": {"custom_model_data": 256}, "model": "block/custom/staryuclip"},
+  {"predicate": {"custom_model_data": 257}, "model": "block/custom/ampharos"},
+  {"predicate": {"custom_model_data": 258}, "model": "block/custom/blaziken_cap"},
+  {"predicate": {"custom_model_data": 259}, "model": "block/custom/goomyhat_shiny"},
+  {"predicate": {"custom_model_data": 261}, "model": "block/custom/psycap_shiny"},
+  {"predicate": {"custom_model_data": 262}, "model": "block/custom/umbreoncap_shiny"},
+  {"predicate": {"custom_model_data": 263}, "model": "block/custom/sylveonears_shiny"},
+  {"predicate": {"custom_model_data": 264}, "model": "block/custom/buneary_shiny"},
+  {"predicate": {"custom_model_data": 265}, "model": "block/custom/scorbunny_shiny"},
+  {"predicate": {"custom_model_data": 266}, "model": "block/custom/morelullshroom_shiny"},
+  {"predicate": {"custom_model_data": 267}, "model": "block/custom/breloomshroom_shiny"},
+  {"predicate": {"custom_model_data": 268}, "model": "block/custom/toedscool_shiny"},
+  {"predicate": {"custom_model_data": 269}, "model": "block/custom/staryuclip_shiny"},
+  {"predicate": {"custom_model_data": 270}, "model": "block/custom/ampharos_shiny"},
+  {"predicate": {"custom_model_data": 271}, "model": "block/custom/blaziken_cap_shiny"},
+  {"predicate": {"custom_model_data": 272}, "model": "block/custom/applinhat"},
+  {"predicate": {"custom_model_data": 273}, "model": "block/custom/applinhat_shiny"},
+  {"predicate": {"custom_model_data": 274}, "model": "block/custom/magnemitehat"},
+  {"predicate": {"custom_model_data": 275}, "model": "block/custom/magnemitehat_shiny"},
+  {"predicate": {"custom_model_data": 276}, "model": "block/custom/digglethat"},
+  {"predicate": {"custom_model_data": 277}, "model": "block/custom/digglethat_shiny"},
+  {"predicate": {"custom_model_data": 278}, "model": "block/custom/wigglethat"},
+  {"predicate": {"custom_model_data": 279}, "model": "block/custom/wigglethat_shiny"},
+  {"predicate": {"custom_model_data": 280}, "model": "block/custom/nickit_ears"},
+  {"predicate": {"custom_model_data": 281}, "model": "block/custom/nickit_ears_shiny"},
+  {"predicate": {"custom_model_data": 282}, "model": "block/custom/alolan_digglethat"}
+
+
+  
+  
+ ]
+}

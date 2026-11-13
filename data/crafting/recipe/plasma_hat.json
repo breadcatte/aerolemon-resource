@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "   ",
+      "sBB",
+      "   "
+    ],
+    "key": {
+      "s": {
+            "item": "minecraft:string"
+    },
+      "B": {
+            "item": "minecraft:black_wool"
+    }
+  },
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 550,
+        "minecraft:item_name": "\"Plasma Grunt Beret\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

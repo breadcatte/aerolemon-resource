@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "   ",
+      "   ",
+      "a a"
+    ],
+    "key": {
+      "a": {
+            "item": "minecraft:apple"
+    
+
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 272,
+        "minecraft:item_name": "\"Applin Hat\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

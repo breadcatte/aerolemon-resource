@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " WW",
+      "pWW",
+      "   "
+    ],
+    "key": {
+      "W": {
+            "item": "minecraft:white_wool"
+    },
+      "p": {
+            "item": "minecraft:pink_carpet"
+    }
+  },
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 5022,
+        "minecraft:item_name": "\"Hilda's Cap\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

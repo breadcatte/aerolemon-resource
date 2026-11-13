@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "o  ",
+      "LLL",
+      "   "
+    ],
+    "key": {
+      "o": {
+            "item": "minecraft:oxeye_daisy"
+    },
+      "L": {
+            "item": "minecraft:lime_wool"
+    }
+    },
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 5077,
+        "minecraft:item_name": "\"Bianca's Beret\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

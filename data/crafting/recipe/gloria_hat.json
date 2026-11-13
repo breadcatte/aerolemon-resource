@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " W ",
+      "QQQ",
+      "   "
+    ],
+    "key": {
+      "W": {
+            "item": "minecraft:white_wool"
+    },
+      "Q": {
+            "item": "minecraft:green_wool"
+    }
+  },
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 8022,
+        "minecraft:item_name": "\"Gloria's Hat\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "r r",
+      " R ",
+      " R "
+    ],
+    "key": {
+      "r": {
+            "item": "minecraft:red_carpet"
+    },
+      "R": {
+            "item": "minecraft:red_wool"
+    }
+  },
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 7022,
+        "minecraft:item_name": "\"Selene's Flower Cap\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

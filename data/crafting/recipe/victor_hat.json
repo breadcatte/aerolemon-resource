@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " HH",
+      "HjH",
+      "   "
+    ],
+    "key": {
+      "H": {
+            "item": "minecraft:light_gray_wool"
+    },
+      "j": {
+            "item": "minecraft:orange_carpet"
+    }
+  },
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 8011,
+        "minecraft:item_name": "\"Victor's Oversized Beanie\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

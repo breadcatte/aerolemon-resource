@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "a  ",
+      "pPp",
+      "   "
+    ],
+    "key": {
+      "a": {
+            "item": "minecraft:amethyst_shard"
+    },
+      "p": {
+            "item": "minecraft:pink_carpet"
+    },
+      "P": {
+            "item": "minecraft:pink_wool"
+    }
+  },
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 6022,
+        "minecraft:item_name": "\"Serena's Hat & Glasses\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

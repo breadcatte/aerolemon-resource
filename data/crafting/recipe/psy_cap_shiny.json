@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "  n",
+      " iy",
+      "cyy"
+    ],
+    "key": {
+      "y": {
+            "item": "minecraft:yellow_wool"
+    },
+      "i": {
+            "item": "minecraft:ink_sac"
+    },
+      "c": {
+            "item": "minecraft:yellow_carpet"
+          },
+          "n": {
+                    "item": "minecraft:netherite_ingot"
+
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 261,
+        "minecraft:item_name": "\"Psycap Shiny\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

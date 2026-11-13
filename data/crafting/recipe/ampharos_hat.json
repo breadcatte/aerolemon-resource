@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "l l",
+      " r ",
+      "   "
+    ],
+    "key": {
+      "r": {
+            "item": "minecraft:redstone_block"
+    },
+      "l": {
+            "item": "minecraft:lightning_rod"
+
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 257,
+        "minecraft:item_name": "\"Ampharos Hat\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

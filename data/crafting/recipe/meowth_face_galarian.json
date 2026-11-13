@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " g ",
+      "sbs",
+      "s s"
+    ],
+    "key": {
+      "g": {
+            "item": "minecraft:gold_nugget"
+    },
+      "s": {
+            "item": "minecraft:string"
+     },
+      "b": {
+            "item": "minecraft:black_wool"
+        
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 248,
+        "minecraft:item_name": "\"Galarian Meowth Face\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " BY",
+      "bBY",
+      "   "
+    ],
+    "key": {
+        "Y": {
+            "item": "minecraft:yellow_wool"
+        },
+        "B": {
+            "item": "minecraft:black_wool"
+        },
+        "b": {
+            "item": "minecraft:black_carpet"
+        }
+    },    
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 2011,
+        "minecraft:item_name": "\"Gold's Backwards Cap\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

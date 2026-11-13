@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " WW",
+      "lll",
+      "   "
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:white_wool"
+        },
+        "l": {
+            "item": "minecraft:lime_carpet"
+        }
+    },    
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 301,
+        "minecraft:item_name": "\"Brendan's Knit Cap\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

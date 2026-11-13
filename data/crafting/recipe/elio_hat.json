@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " B ",
+      "rRr",
+      "   "
+    ],
+    "key": {
+      "B": {
+            "item": "minecraft:black_wool"
+    },
+      "r": {
+            "item": "minecraft:red_carpet"
+    },
+      "R": {
+            "item": "minecraft:red_wool"
+    }
+  },
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 7011,
+        "minecraft:item_name": "\"Elio's Bucket Hat\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

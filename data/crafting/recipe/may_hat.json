@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "WRr",
+      "RR ",
+      "   "
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:white_wool"
+        },
+        "R": {
+            "item": "minecraft:red_wool"
+        },
+        "r": {
+          "item": "minecraft:red_carpet"
+      }
+    },    
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 3022,
+        "minecraft:item_name": "\"May's Bandana\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

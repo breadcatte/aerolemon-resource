@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " g ",
+      "s s",
+      "s s"
+    ],
+    "key": {
+      "g": {
+            "item": "minecraft:gold_nugget"
+    },
+      "s": {
+            "item": "minecraft:string"
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 246,
+        "minecraft:item_name": "\"Meowth Face\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "   ",
+      "rRR",
+      "   "
+    ],
+    "key": {
+      "r": {
+            "item": "minecraft:red_carpet"
+    },
+      "R": {
+            "item": "minecraft:red_wool"
+    }
+  },    
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 4011,
+        "minecraft:item_name": "\"Lucas's Hat\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " WR",
+      "wWR",
+      "   "
+    ],
+    "key": {
+        "w": {
+            "item": "minecraft:white_carpet"
+        },
+        "W": {
+            "item": "minecraft:white_wool"
+        },
+        "R": {
+            "item": "minecraft:red_wool"
+        }
+    },
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 1011,
+        "minecraft:item_name": "\"Red's Cap\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+  }

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "b b",
+      "w w",
+      "w w"
+    ],
+    "key": {
+      "b": {
+            "item": "minecraft:blaze_powder"
+    },
+      "w": {
+            "item": "minecraft:white_wool"
+
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 251,
+        "minecraft:item_name": "\"Scorbunny Ears\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

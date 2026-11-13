@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "   ",
+      " iy",
+      "cyy"
+    ],
+    "key": {
+      "y": {
+            "item": "minecraft:yellow_wool"
+    },
+      "i": {
+            "item": "minecraft:ink_sac"
+    },
+      "c": {
+            "item": "minecraft:yellow_carpet"
+
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 242,
+        "minecraft:item_name": "\"Psycap\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

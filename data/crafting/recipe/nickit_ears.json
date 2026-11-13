@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "   ",
+      "b b",
+      "o o"
+    ],
+    "key": {
+      "o": {
+            "item": "minecraft:orange_wool"
+    },
+      "b": {
+            "item": "minecraft:black_wool"
+
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 280,
+        "minecraft:item_name": "\"Nickit Ears\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

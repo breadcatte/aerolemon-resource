@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "g g",
+      " g ",
+      "PPP"
+    ],
+    "key": {
+      "g": {
+            "item": "minecraft:short_grass"
+    },
+      "P": {
+            "item": "minecraft:pink_wool"
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 243,
+        "minecraft:item_name": "\"Hoppip Hat\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

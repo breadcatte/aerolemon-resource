@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " g ",
+      "sls",
+      "s s"
+    ],
+    "key": {
+      "g": {
+            "item": "minecraft:gold_nugget"
+    },
+      "s": {
+            "item": "minecraft:string"
+     },
+      "l": {
+            "item": "minecraft:light_gray_wool"
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 247,
+        "minecraft:item_name": "\"Alolan Meowth Face\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

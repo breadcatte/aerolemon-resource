@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "bbb",
+      "s s",
+      "   "
+    ],
+    "key": {
+      "b": {
+            "item": "minecraft:brown_mushroom"
+
+    },
+      "s": {
+            "item": "minecraft:string"
+
+}
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 255,
+        "minecraft:item_name": "\"Toedscool Hat\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

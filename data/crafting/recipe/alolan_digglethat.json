@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " g ",
+      " d ",
+      "ccc"
+    ],
+    "key": {
+      "c": {
+            "item": "minecraft:cobblestone"
+    },
+      "d": {
+            "item": "minecraft:dirt"
+            },
+      "g": {
+            "item": "minecraft:gold_ingot"
+
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 282,
+        "minecraft:item_name": "\"Alolan Digglet Hat\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

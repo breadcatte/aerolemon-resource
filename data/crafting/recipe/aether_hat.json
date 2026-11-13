@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " n ",
+      "wWW",
+      "   "
+    ],
+    "key": {
+      "n": {
+            "item": "minecraft:gold_nugget"
+    },
+      "w": {
+            "item": "minecraft:white_carpet"
+    },
+      "W": {
+            "item": "minecraft:white_wool"
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 751,
+        "minecraft:item_name": "\"Aether Foundation Hat\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

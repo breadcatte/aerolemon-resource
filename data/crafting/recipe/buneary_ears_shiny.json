@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "w n",
+      "b w",
+      "b b"
+    ],
+    "key": {
+      "w": {
+            "item": "minecraft:white_wool"
+    },
+      "b": {
+            "item": "minecraft:brown_wool"
+          },
+          "n": {
+                    "item": "minecraft:netherite_ingot"
+
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 264,
+        "minecraft:item_name": "\"Buneary Ears Shiny\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

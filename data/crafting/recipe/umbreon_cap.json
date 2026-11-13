@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "   ",
+      " yb",
+      "cyb"
+    ],
+    "key": {
+      "b": {
+            "item": "minecraft:black_wool"
+    },
+      "y": {
+            "item": "minecraft:yellow_wool"
+
+    },
+      "c": {
+            "item": "minecraft:black_carpet"
+
+}
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 244,
+        "minecraft:item_name": "\"Umbreon Cap\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

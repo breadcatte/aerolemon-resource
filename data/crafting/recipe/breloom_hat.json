@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "rgr",
+      "   ",
+      "   "
+    ],
+    "key": {
+      "g": {
+            "item": "minecraft:green_wool"
+    },
+      "r": {
+            "item": "minecraft:red_mushroom"
+
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 253,
+        "minecraft:item_name": "\"Breloom Shroom\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

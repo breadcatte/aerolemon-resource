@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "w  ",
+      "b w",
+      "b b"
+    ],
+    "key": {
+      "w": {
+            "item": "minecraft:white_wool"
+    },
+      "b": {
+            "item": "minecraft:brown_wool"
+
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 249,
+        "minecraft:item_name": "\"Buneary Ears\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

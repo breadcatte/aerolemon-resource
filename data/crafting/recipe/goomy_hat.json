@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "   ",
+      "s s",
+      "ppp"
+    ],
+    "key": {
+      "p": {
+            "item": "minecraft:purple_wool"
+    },
+      "s": {
+            "item": "minecraft:slime_ball"
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 241,
+        "minecraft:item_name": "\"Goomy Hat\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " c ",
+      "crc",
+      "cnc"
+    ],
+    "key": {
+      "r": {
+            "item": "minecraft:redstone_block"
+    },
+      "c": {
+            "item": "minecraft:copper_ingot"
+          },
+          "n": {
+                    "item": "minecraft:netherite_ingot"
+
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 269,
+        "minecraft:item_name": "\"Staryu Clip Shiny\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "lnl",
+      " r ",
+      "   "
+    ],
+    "key": {
+      "r": {
+            "item": "minecraft:redstone_block"
+    },
+      "l": {
+            "item": "minecraft:lightning_rod"
+          },
+          "n": {
+                    "item": "minecraft:netherite_ingot"
+
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 270,
+        "minecraft:item_name": "\"Ampharos Hat Shiny\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

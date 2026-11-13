@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "BrB",
+      "r r",
+      "   "
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:black_wool"
+        },
+        "r": {
+            "item": "minecraft:red_carpet"
+        }
+    },    
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 351,
+        "minecraft:item_name": "\"Magma Grunt Hood\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "  c",
+      "p p",
+      "w w"
+    ],
+    "key": {
+      "w": {
+            "item": "minecraft:white_wool"
+    },
+      "p": {
+            "item": "minecraft:pink_wool"
+    },
+      "c": {
+            "item": "minecraft:light_blue_wool"
+
+    
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 245,
+        "minecraft:item_name": "\"Sylveon Ears\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

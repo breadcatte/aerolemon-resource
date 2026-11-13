@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "grg",
+      "bgb",
+      "   "
+    ],
+    "key": {
+      "g": {
+            "item": "minecraft:glowstone_dust"
+    },
+      "r": {
+            "item": "minecraft:red_mushroom"
+    },
+      "b": {
+            "item": "minecraft:brown_mushroom"
+
+    }
+    },  
+    "result": {
+      "id": "minecraft:carved_pumpkin",
+      "components": {
+        "minecraft:custom_model_data": 252,
+        "minecraft:item_name": "\"Morelull Shroom\""
+      },
+      "count": 1
+    },
+    "show_notification": false
+}

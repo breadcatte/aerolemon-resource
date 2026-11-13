@@ -1,0 +1,33 @@
+name: Optimize resource pack
+on: [workflow_dispatch]
+permissions:
+  contents: write # For creating releases
+  actions: read # For downloading latest pack artifacts
+jobs:
+  packsquash:
+    name: Run PackSquash
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0 # A non-shallow repository clone is required
+          persist-credentials: false
+      - name: Run PackSquash
+        uses: ComunidadAylas/PackSquash-action@v4
+        with:
+          packsquash_version: latest
+          options: |
+            # Optimize the pack in the root repository directory.
+            # This is the default value for pack_directory when no PackSquash options are defined
+            pack_directory = '.'
+
+            # Set a custom output file path to work with the generated ZIP file
+            # without needing to download its artifact in a separate step
+            output_file_path = '/tmp/aerolemon-resource.zip'
+      - name: Tag and create release
+        run:
+          gh release create 'v${{ github.run_number }}.${{ github.run_attempt }}'
+          --target '${{ github.sha }}' /tmp/aerolemon-resource.zip
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

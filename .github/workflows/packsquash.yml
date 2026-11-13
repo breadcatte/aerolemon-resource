@@ -1,0 +1,19 @@
+name: Optimize resource pack
+on: [push]
+permissions:
+  contents: read # For checking out the repository
+  actions: read # For downloading latest pack artifacts
+jobs:
+  packsquash:
+    name: Run PackSquash
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0 # A non-shallow repository clone is required
+          persist-credentials: false
+      - name: Run PackSquash
+        uses: ComunidadAylas/PackSquash-action@v4
+        with:
+          packsquash_version: latest # Uses the latest PackSquash release supported by the action
